@@ -142,12 +142,7 @@ Open a Pull Request.
 
 ## Screenshots
 
-Screenshot 2025-02-26 225619.png
-WhatsApp Image 2025-02-21 at 11.36.35 PM.jpeg
-WhatsApp Image 2025-02-21 at 11.36.36 PM.jpeg
-WhatsApp Image 2025-02-21 at 11.36.37 PM (1).jpeg
-WhatsApp Image 2025-02-21 at 11.36.37 PM (2).jpeg
-
+https://github.com/nouman1815/backup-and-recovery/blob/main/Screenshot%202025-02-26%20225619.png
 
 ## Authors
 
