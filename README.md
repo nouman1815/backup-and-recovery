@@ -140,9 +140,22 @@ Push to GitHub (git push origin feature-name).
 
 Open a Pull Request.
 
+
 ## Screenshots
 
-https://github.com/nouman1815/backup-and-recovery/blob/main/Screenshot%202025-02-26%20225619.png
+![App Screenshot](https://github.com/Mehwish4610/smart-disaster-recovery/blob/main/WhatsApp%20Image%202025-02-21%20at%2011.36.35%20PM.jpeg)
+
+![App Screenshot](https://github.com/Mehwish4610/smart-disaster-recovery/blob/main/WhatsApp%20Image%202025-02-21%20at%2011.36.36%20PM.jpeg)
+
+![App Screenshot](https://github.com/Mehwish4610/smart-disaster-recovery/blob/main/WhatsApp%20Image%202025-02-21%20at%2011.36.37%20PM%20(1).jpeg)
+
+![App Screenshot](https://github.com/Mehwish4610/smart-disaster-recovery/blob/main/WhatsApp%20Image%202025-02-21%20at%2011.36.37%20PM%20(2).jpeg)
+
+![App Screenshot](https://github.com/Mehwish4610/smart-disaster-recovery/blob/main/WhatsApp%20Image%202025-02-21%20at%2011.36.37%20PM.jpeg)
+
+![App Screenshot](https://github.com/Mehwish4610/smart-disaster-recovery/blob/main/Screenshot%202025-02-26%20225619.png)
+
+
 
 ## Authors
 
