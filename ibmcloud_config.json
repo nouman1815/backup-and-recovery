@@ -1,0 +1,9 @@
+{
+    "COS_ENDPOINT": "https://s3.us.cloud-object-storage.appdomain.cloud",
+    "COS_API_KEY_ID": "your-api-key",
+    "COS_INSTANCE_CRN": "your-instance-crn",
+    "COS_ACCESS_KEY": "your-access-key",
+    "COS_SECRET_KEY": "your-secret-key",
+    "BUCKET_NAME": "your-bucket-name"
+  }
+  
